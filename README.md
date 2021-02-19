@@ -1,1 +1,2 @@
-"# fcc-Responsive-Web-Design" 
+http://github.com - automatic!
+[GitHub](http://github.com)
